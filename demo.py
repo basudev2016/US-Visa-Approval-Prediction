@@ -8,3 +8,6 @@ import sys
 #     a = 1/ "aa"
 # except Exception as e:
 #     raise USvisaException(e,sys) from e
+#     logging.info(e) # to add to log file 
+
+
